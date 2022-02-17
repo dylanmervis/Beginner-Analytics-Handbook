@@ -61,7 +61,7 @@ Probability & Statistics:
 These are other non-textbook resources that have really helped me out:
 - [R to Python](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07) - Data wrangling with R's dplyr and Python's Pandas
 - [The Mockup Blog](https://themockup.blog/) - Thomas Mock's blog detailing various R capabilites
-- [Julia Silge] - Julia Silge's blog utilizing TidyModels through the entirety of the data science process
+- [Julia Silge](https://juliasilge.com/categories/tidymodels/) - Julia Silge's blog utilizing TidyModels through the entirety of the data science process
 - [Analytics Vidhya](https://www.analyticsvidhya.com/) - Very helpful in learning various analytics techniques in Python
 - [Python & R For the Modern Data Scientist](http://www.ylz.ncx.mybluehost.me/moderndata.design/PyR4MDS/) Great resource comparing Python and R side-by-side
 - [R Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - Cheatsheets put together by the RStudio team
