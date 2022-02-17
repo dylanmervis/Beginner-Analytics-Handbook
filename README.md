@@ -1,2 +1,2 @@
-# Beginner-s-Analytics-Handbook
+# Beginner's-Analytics-Handbook
 Collection of resources that I found helpful
