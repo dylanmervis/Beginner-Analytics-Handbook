@@ -1,7 +1,7 @@
 # Beginner's Analytics Handbook
 Collection of resources that I found helpful
 
-[Dylan Mervis] — Feb 2022
+**Dylan Mervis — Feb 2022
 
 I recently had a friend ask how I got my start in teaching myself to code and the data science process. Here's a list of helpful resources in various topics that helped speed up the learning curve. Data science is one of those 'the sea gets larger the further you swim in' fields, so pick what interests you and continually branch off from there. I started learning R first simply because I couldn't figure out how to download Python on my computer (this seems to be a common theme actually). Just start learning whichever is more intuitive to you. I will say that if you are looking to switch a careers, a majority of the job descriptions I've seen ask for Python skills, but if you start with R learning Python after is not very difficult. Lastly, while reading all of the below will be very helpful, what really got me over the hump was copy/pasting scripts from very smart people, and going line-by-line to see what each line of code did. Chances are whatever you are attempting to do, someone else has already done it, so look online, find some code, and start Googling errors.
 
